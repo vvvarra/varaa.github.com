@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<authentications>
+  <auth>
+    <login>112233</login>
+    <password>232</password>
+  </auth>
+  <auth>
+    <login>11</login>
+    <password>22</password>
+  </auth>
+  <auth>
+    <login>22</login>
+    <password>11</password>
+  </auth>
+  <auth>
+    <login>111</login>
+    <password>111</password>
+  </auth>
+  <auth>
+    <login>121233</login>
+    <password>12345</password>
+  </auth>
+  <auth>
+    <login>6987654321</login>
+    <password>111222</password>
+  </auth>
+  <auth>
+    <login>9393</login>
+    <password>111</password>
+  </auth>
+  <auth>
+    <login>111</login>
+    <password>111</password>
+  </auth>
+</authentications>

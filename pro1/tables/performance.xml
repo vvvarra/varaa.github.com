@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<performance>
+  <perf>
+    <codeper>1</codeper>
+    <name> Мастер и Маргарита </name>
+    <year> 2020 </year>
+    <budget>4000000</budget>
+    <Description>-</Description>
+  </perf>
+  <perf>
+    <codeper>2</codeper>
+    <name>Обломов</name>
+    <year>2021</year>
+    <budget>4 000 000</budget>
+  </perf>
+  <perf>
+    <codeper>3</codeper>
+    <name>На дне</name>
+    <year>2020</year>
+    <budget>2000000</budget>
+  </perf>
+  <perf>
+    <codeper>4</codeper>
+    <name>Мертвые души</name>
+    <year>2020</year>
+    <budget>3000000</budget>
+  </perf>
+  <perf>
+    <codeper>5</codeper>
+    <name>Горе от ума</name>
+    <year>2020</year>
+    <budget>3000000</budget>
+  </perf>
+  <perf>
+    <codeper>6</codeper>
+    <name>Война и мир</name>
+    <year>2021</year>
+    <budget>3 000 000</budget>
+  </perf>
+  <perf>
+    <codeper>7</codeper>
+    <name>Бесприданница</name>
+    <year>2021</year>
+    <budget>4 000 000</budget>
+  </perf>
+  <perf>
+    <codeper>8</codeper>
+    <name>Белая гвардия</name>
+    <year>2021</year>
+    <budget>4 000 000</budget>
+  </perf>
+  <perf>
+    <codeper>9</codeper>
+    <name>Мастер и Маргарита</name>
+    <year>2021</year>
+    <budget>3 000 000</budget>
+  </perf>
+  <perf>
+    <codeper>10</codeper>
+    <name>Конек-Горбунок</name>
+    <year>2021</year>
+    <budget>3 000 000</budget>
+  </perf>
+  <perf>
+    <codeper>11</codeper>
+    <name>Дама с собачкой</name>
+    <year>2022</year>
+    <budget>4 000 000</budget>
+  </perf>
+  <perf>
+    <codeper>12</codeper>
+    <name>Мертвые души</name>
+    <year>2022</year>
+    <budget>3 000 000</budget>
+  </perf>
+  <perf>
+    <codeper>13</codeper>
+    <name>Волки и овцы</name>
+    <year>2022</year>
+    <budget>3 000 000</budget>
+  </perf>
+  <perf>
+    <codeper>14</codeper>
+    <name>№13</name>
+    <year>2022</year>
+    <budget>3 000 000</budget>
+  </perf>
+  <perf>
+    <codeper>15</codeper>
+    <name>Война и мир</name>
+    <year>2022</year>
+    <budget>3 000 000</budget>
+  </perf>
+  <perf>
+    <codeper>66</codeper>
+    <name>fjg</name>
+    <year>222</year>
+    <budget>80000</budget>
+  </perf>
+</performance>

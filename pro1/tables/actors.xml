@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<actors>
+  <actor>
+    <code>1</code>
+    <surname> Иванов </surname>
+    <name> Алексей </name>
+    <patronymic> Иванович </patronymic>
+    <rank>1</rank>
+    <experience>25</experience>
+    <year>2020</year>
+    <salary>100000</salary>
+    <prize>118750</prize>
+  </actor>
+  <actor>
+    <code>1</code>
+    <surname> Иванов </surname>
+    <name> Алексей </name>
+    <patronymic> Иванович </patronymic>
+    <rank>Народный артист</rank>
+    <experience>26</experience>
+    <year>2021</year>
+    <salary>83333</salary>
+    <prize>26208</prize>
+  </actor>
+  <actor>
+    <code>1</code>
+    <surname> Иванов </surname>
+    <name> Алексей </name>
+    <patronymic> Иванович </patronymic>
+    <rank>Народный артист</rank>
+    <experience>27</experience>
+    <year>2022</year>
+    <salary>100000</salary>
+    <prize>44450</prize>
+  </actor>
+  <actor>
+    <code>2</code>
+    <surname> Карасев </surname>
+    <name> Андрей </name>
+    <patronymic> Александрович </patronymic>
+    <rank>1</rank>
+    <experience>20</experience>
+    <year>2020</year>
+    <salary>91666</salary>
+    <prize>49440</prize>
+    <salary>91666</salary>
+  </actor>
+  <actor>
+    <code>2</code>
+    <surname> Карасев </surname>
+    <name> Андрей </name>
+    <patronymic> Александрович </patronymic>
+    <rank>1</rank>
+    <experience>21</experience>
+    <year>2021</year>
+    <salary>75000</salary>
+    <prize>45375</prize>
+  </actor>
+  <actor>
+    <code>2</code>
+    <surname> Карасев </surname>
+    <name> Андрей </name>
+    <patronymic> Александрович </patronymic>
+    <rank>Народный артист</rank>
+    <experience>22</experience>
+    <year>2022</year>
+    <salary>83333</salary>
+    <prize>71126</prize>
+  </actor>
+  <actor>
+    <code>3</code>
+    <surname>Попова</surname>
+    <name>Евгения</name>
+    <patronymic>Романовна</patronymic>
+    <rank>2</rank>
+    <experience>15</experience>
+    <year>2020</year>
+    <salary>58333</salary>
+    <prize>30130</prize>
+  </actor>
+  <actor>
+    <code>3</code>
+    <surname>Попова</surname>
+    <name>Евгения</name>
+    <patronymic>Романовна</patronymic>
+    <rank>1</rank>
+    <experience>16</experience>
+    <year>2021</year>
+    <salary>75000</salary>
+    <prize>26100</prize>
+  </actor>
+  <actor>
+    <code>3</code>
+    <surname>Попова</surname>
+    <name>Евгения</name>
+    <patronymic>Романовна</patronymic>
+    <rank>Заслуженный артист</rank>
+    <experience>17</experience>
+    <year>2022</year>
+    <salary>83333</salary>
+    <prize>48672</prize>
+  </actor>
+  <actor>
+    <code>4</code>
+    <surname>Афанасьева</surname>
+    <name>Анастасия</name>
+    <patronymic>Алексеевна</patronymic>
+    <rank>2</rank>
+    <experience>12</experience>
+    <year>2020</year>
+    <salary>50000</salary>
+    <prize>22400</prize>
+  </actor>
+  <actor>
+    <code>4</code>
+    <surname>Афанасьева</surname>
+    <name>Анастасия</name>
+    <patronymic>Алексеевна</patronymic>
+    <rank>1</rank>
+    <experience>13</experience>
+    <year>2021</year>
+    <salary>66666</salary>
+    <prize>45087</prize>
+  </actor>
+  <actor>
+    <code>4</code>
+    <surname>Афанасьева</surname>
+    <name>Анастасия</name>
+    <patronymic>Алексеевна</patronymic>
+    <rank>Заслуженный артист</rank>
+    <experience>14</experience>
+    <year>2022</year>
+    <salary>83333</salary>
+    <prize>66462</prize>
+  </actor>
+</actors>

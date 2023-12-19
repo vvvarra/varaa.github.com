@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<employments>
+  <employm>
+    <code>1</code>
+    <codeper>1</codeper>
+    <role> главная </role>
+    <cost>1200000</cost>
+    <year>2020</year>
+    <play>19</play>
+  </employm>
+  <employm>
+    <code>1</code>
+    <codeper>7</codeper>
+    <role> главная </role>
+    <cost> 1000000 </cost>
+    <year>2021</year>
+    <play>5</play>
+  </employm>
+  <employm>
+    <code>1</code>
+    <codeper>12</codeper>
+    <role> главная </role>
+    <cost> 1200000 </cost>
+    <year>2022</year>
+    <play>7</play>
+  </employm>
+  <employm>
+    <code>2</code>
+    <codeper>1</codeper>
+    <role> главная </role>
+    <cost> 1100000 </cost>
+    <year>2020</year>
+    <play>9</play>
+  </employm>
+  <employm>
+    <code>2</code>
+    <codeper>8</codeper>
+    <role> вторая </role>
+    <cost> 900000 </cost>
+    <year>2021</year>
+    <play>10</play>
+  </employm>
+  <employm>
+    <code>2</code>
+    <codeper>13</codeper>
+    <role> вторая </role>
+    <cost> 1000000 </cost>
+    <year>2022</year>
+    <play>14</play>
+  </employm>
+  <employm>
+    <code>3</code>
+    <codeper>4</codeper>
+    <role> эпизодическая </role>
+    <cost> 700000 </cost>
+    <year>2020</year>
+    <play>9</play>
+  </employm>
+  <employm>
+    <code>3</code>
+    <codeper>10</codeper>
+    <role> вторая </role>
+    <cost> 900000 </cost>
+    <year>2021</year>
+    <play>6</play>
+  </employm>
+  <employm>
+    <code>3</code>
+    <codeper>12</codeper>
+    <role> вторая </role>
+    <cost> 1000000 </cost>
+    <year>2022</year>
+    <play>10</play>
+  </employm>
+  <employm>
+    <code>4</code>
+    <codeper>1</codeper>
+    <role> эпизодическая </role>
+    <cost> 600000 </cost>
+    <year>2020</year>
+    <play>8</play>
+  </employm>
+  <employm>
+    <code>4</code>
+    <codeper>9</codeper>
+    <role> эпизодическая </role>
+    <cost> 800000 </cost>
+    <year>2021</year>
+    <play>12</play>
+  </employm>
+  <employm>
+    <code>4</code>
+    <codeper>15</codeper>
+    <role> вторая </role>
+    <cost> 1000000 </cost>
+    <year>2022</year>
+    <play>14</play>
+  </employm>
+</employments>

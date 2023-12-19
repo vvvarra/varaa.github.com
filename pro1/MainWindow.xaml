@@ -1,0 +1,81 @@
+﻿<Window x:Class="pro1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:pro1"
+        mc:Ignorable="d"
+        Title="Занятость актеров театра" Height="800" Width="1200" WindowStyle="ThreeDBorderWindow">
+
+    <Grid x:Name="MainPage" Background="#FF310129">
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Image Grid.ColumnSpan="7" Margin="0,-23,0,7" Grid.RowSpan="7" Source="/Group 23.png" Stretch="Fill"/>
+        <Rectangle RadiusX="50" RadiusY="50" Grid.Column="1" Grid.ColumnSpan="5" HorizontalAlignment="Left" Height="478" Margin="148,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="558" Grid.RowSpan="5" Fill="White" />
+
+        <TextBlock Grid.Row="2" Grid.Column="3" Text="Вход " FontFamily="Arial Black" Margin="18,50,29,10" RenderTransformOrigin="0.648,1.058" FontSize="44" Foreground="#FF310129"/>
+        <PasswordBox x:Name="passBox"  VerticalContentAlignment="Center" Grid.Column="2" Grid.ColumnSpan="3" Margin="50,56,34,0"  Grid.Row="4" FontSize="30" Height="46" VerticalAlignment="Top" Password="" Background="White" FontFamily="Bahnschrift Condensed">
+            <PasswordBox.Resources>
+                <Style x:Key="{x:Type PasswordBox}" TargetType="{x:Type PasswordBox}">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type PasswordBox}">
+                                <Border CornerRadius="20" BorderThickness="2" BorderBrush="#310129" Background="White">
+                                    <ScrollViewer x:Name="PART_ContentHost"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </PasswordBox.Resources>
+        </PasswordBox>
+        <TextBox x:Name="txtBox" VerticalContentAlignment="Center" Grid.Column="2" HorizontalAlignment="Left" Margin="50,56,0,0" Grid.Row="3" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="430" Height="46" Grid.ColumnSpan="3" FontSize="30" FontFamily="Bahnschrift Condensed">
+            <TextBox.Resources>
+                <Style x:Key="{x:Type TextBox}" TargetType="{x:Type TextBox}">
+                    <Setter Property="Template">
+                        <Setter.Value>
+                            <ControlTemplate TargetType="{x:Type TextBox}">
+                                <Border CornerRadius="20" BorderThickness="2" BorderBrush="#310129" Background="White">
+                                    <ScrollViewer x:Name="PART_ContentHost"/>
+                                </Border>
+                            </ControlTemplate>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </TextBox.Resources>
+        </TextBox>
+        <Label Grid.Column="2" Content="Логин" HorizontalAlignment="Left" Margin="50,25,0,0" Grid.Row="3" VerticalAlignment="Top" RenderTransformOrigin="0.132,0.147" Width="58" FontFamily="Bahnschrift Condensed" FontSize="18" Foreground="#FF310129"/>
+        <Label Grid.Column="2" Content="Пароль" HorizontalAlignment="Left" Margin="50,25,0,0" Grid.Row="4" VerticalAlignment="Top" RenderTransformOrigin="0.132,0.147" FontFamily="Bahnschrift Condensed" FontSize="18" Foreground="#FF310129"/>
+        <Button Grid.Column="2" Content="Войти" HorizontalAlignment="Left" Margin="50,53,0,0" Grid.Row="5" VerticalAlignment="Top" Height="49" Width="151" Click="Button_Click" Background="#310129" FontFamily="Arial Black" FontSize="20" BorderBrush="{x:Null}" Foreground="White" Grid.ColumnSpan="2">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="20"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Button Grid.Column="3" Content="Регистрация" HorizontalAlignment="Left" Margin="127,53,0,0" Grid.Row="5" VerticalAlignment="Top" Height="49" Width="182" Click="Button1_Click" Background="#FF310129" FontFamily="Arial Black" FontSize="20" BorderBrush="{x:Null}" Grid.ColumnSpan="2" Foreground="White">
+            <Button.Resources>
+                <Style TargetType="{x:Type Border}">
+                    <Setter Property="CornerRadius" Value="20"/>
+                </Style>
+            </Button.Resources>
+        </Button>
+        <Image Margin="37,19,10,80" Grid.RowSpan="2" Source="/Group 2.png" Stretch="Fill"/>
+    </Grid>
+</Window>
